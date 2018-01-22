@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Last-Translator: Tejes <tejes@hac.hu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "go up"
+msgstr "fel"
+
+# zone names
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "Asia"
+msgstr "Ázsia"
+
+msgid "North America"
+msgstr "Észak-Amerika"
+
+msgid "South America"
+msgstr "Dél-Amerika"
+
+msgid "Europe"
+msgstr "Európa"
+
+msgid "Oceania"
+msgstr "Óceánia"
+
+msgid "Global"
+msgstr "Globális"
+
+msgid "All Pool Servers"
+msgstr "Minden pool szerver"
+
+# navigation
+msgid "Translations"
+msgstr "Fordítások"
+
+# index.html
+msgid "Introduction"
+msgstr "Bemutatkozás"
+
+msgid "Active Servers"
+msgstr "Aktív szerverek"
+
+msgid "Links"
+msgstr "Hivatkozások"
+
+msgid "Terms of service"
+msgstr "Felhasználási feltételek"
+
+msgid "Subscribe in a reader"
+msgstr "Feliratkozás hírolvasóval"
+
+msgid "Older news"
+msgstr "Régebbi hírek"
+
+# mailinglists.html
+msgid "NTP Pool mailing lists"
+msgstr "NTP Pool levelezési listák"
+
+msgid "subscribe"
+msgstr "feliratkozás"
+
+msgid "archive"
+msgstr "archívum"
+
+msgid "Announcement list"
+msgstr "Bejelentések lista"
+
+msgid "Discussion list"
+msgstr "Beszélgetés lista"
+
+msgid "Development list"
+msgstr "Fejlesztői lista"
+
+msgid "announcement_list_description"
+msgstr "Nagyon-nagyon ritka bejelentések az NTP Pool híreiről. Minden szerver üzemeltetőnek erősen javasolt a feliratkozás a bejelentések listára."
+
+msgid "discussion_list_description"
+msgstr "Azok a szerver üzemeltetők (és felhasználók), akik jobban be akarnak kapcsolódni a projektbe, feliratkozhatnak a beszélgetés listára. Természetesen az ntp-ről általánosságban a(z) %1 Usenet csoportban (és a <a href=\"%2\">Google Csoportokon</a>) van szó."
+
+msgid "development_list_description"
+msgstr "Technikaibb (és ideálisan mindig pragmatikus) társalgás az <a href=\"%1\">ntp pool</a> és a <a href=\"%2\">pgeodns</a>kódjának fejlesztéséről."
+
+msgid "irc_channel_description"
+msgstr "Van egy %2 IRC szoba szerver üzemeltetőknek és felhasználóknak itt: %1."
+
+# tpl/server.html
+msgid "Back to the front page"
+msgstr "Vissza a főoldalra"
+
+msgid "Find"
+msgstr "Keresés"
+
+msgid "Stats for %1"
+msgstr "%1 statisztikái"
+
+msgid "Not active in the pool, monitoring only"
+msgstr "Nem vesz részt a poolban, csak monitorozás"
+
+msgid "Zones:"
+msgstr "Zónák:"
+
+msgid "This server is <span class=\"deletion\">scheduled for deletion</span> on %1."
+msgstr "Ez a szerver <span class=\"deletion\">elő van jegyezve törlésre</span> ekkorra: %1."
+
+msgid "Current score: %1 (only servers with a score higher than %2 are used in the pool)"
+msgstr "Jelenlegi pontszám: %1 (csak a(z) %2 pont feletti szerverek vesznek részt a poolban)"
+
+msgid "What do the graphs mean?"
+msgstr "Mit jelent a grafikon?"
+
+msgid "CSV log"
+msgstr "CSV napló"
+
+# tpl/navigation_sidebar.html
+msgid "News"
+msgstr "Hírek"
+
+msgid "How do I <i>use</i> pool.ntp.org?"
+msgstr "Hogyan <i>használhatom</i> az pool.ntp.org-ot?"
+
+msgid "How do I <i>join</i> pool.ntp.org?"
+msgstr "Hogyan <i>csatlakozhatok</i> az pool.ntp.org-hoz?"
+
+msgid "Information for vendors"
+msgstr "Információ gyártóknak"
+
+msgid "The mailing lists"
+msgstr "A levelezési listák"
+
+msgid "Additional links"
+msgstr "További hivatkozások"
+
+msgid "Can you translate?"
+msgstr "Tudnál fordítani?"
